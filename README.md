@@ -5,6 +5,6 @@ author: Jean-Sébastien Marier<br>
 Test<br>
 This will hopefully work.<br>
 And here's another line.
-
-
-TEST 456 LINE 10
+And another line.
+Add line 9.
+Add line 10.
